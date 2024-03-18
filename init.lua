@@ -18,7 +18,11 @@ return {
   },
 
   -- Set colorscheme to use
-  colorscheme = "astrodark",
+  -- colorscheme = "astrodark",
+  -- colorscheme = "catppuccin",
+  -- colorscheme = "catppuccin-mocha",
+  colorscheme = "dracula",
+  -- colorscheme = "gruvbox",
 
   -- Diagnostics configuration (for vim.diagnostics.config({...})) when diagnostics are on
   diagnostics = {
