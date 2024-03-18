@@ -1,8 +1,8 @@
 # Astronvim user configuration example
 
-A user configuration template for [AstroNvim](https://github.com/astronvim/astronvim)
+A user configuration template for [AstroNvim](https://github.com/astronvim/astronvim).
 
-## 💩 Words by Author (Rozenthegoat)
+## 💩 Words by Author: Rozenthegoat
 
 This repo represents my current configuration of AstroNvim Community Plugins.
 
